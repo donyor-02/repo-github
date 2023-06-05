@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
 
     // hello world 3 for master 2
     var myver: Int = 120
+    var version: String = "branch test 02"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

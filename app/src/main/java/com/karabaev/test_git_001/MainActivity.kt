@@ -6,6 +6,8 @@ import android.os.Bundle
 class MainActivity : AppCompatActivity() {
 
     var a: String = "test 01".toString()
+    var b: Int = 10
+    var c: Int = 30
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

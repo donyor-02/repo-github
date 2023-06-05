@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
     var b: Int = 10
     var c: Int = 30
 
+    // hello world 3
     var myver: Int = 120
 
     override fun onCreate(savedInstanceState: Bundle?) {

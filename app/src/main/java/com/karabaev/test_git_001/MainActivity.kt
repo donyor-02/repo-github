@@ -9,6 +9,8 @@ class MainActivity : AppCompatActivity() {
     var b: Int = 10
     var c: Int = 30
 
+    var myver: Int = 120
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
